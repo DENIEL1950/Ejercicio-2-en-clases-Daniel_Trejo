@@ -1,3 +1,48 @@
 .App {
   text-align: center;
 }
+.calculadora{
+  color: aqua;
+  text-align: center;
+  font-size: 150px;
+}
+.texto{
+  width: 250px;
+  height: 40px;
+  font-size: 30px;
+  color:red;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: aqua;
+ }
+.boton{
+  background-color: rgb(33, 164, 188);
+  font-size: 30px;
+  margin-left: 10;
+  margin-right: 10px;
+  width: 100px;
+  margin: 10px auto;
+  color: orange;
+}
+.boton2{
+  background-color: rgb(254, 255, 240);
+  font-size: 30px;
+  margin-left: 10;
+  margin-right: 10px;
+  width: 100px;
+  margin: 10px auto;
+  color: rgb(200, 23, 23);
+}
+.boton3{
+  background-color: rgb(1, 1, 14);
+  font-size: 30px;
+  margin-left: 10;
+  margin-right: 10px;
+  width: 100px;
+  margin: 10px auto;
+  color: rgb(195, 16, 16);
+}
+body{
+  background-image:url(https://previews.123rf.com/images/learchitecto/learchitecto1308/learchitecto130801944/21660149-calculadora-de-negocio-en-el-paisaje-pac%C3%ADfico.jpg);
+  background-size: 1000px;
+}
+
